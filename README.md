@@ -3,7 +3,7 @@ This repository is being created using the Hello world guide. The purpose of thi
 _______
 
 ## About 
-Hi, I am Briti. I am a *PhD Scholar* at *Centre for Economic Studies and Planning*, JNU. 
+Hi, I am Briti. I am a *PhD Scholar* at *Centre for Economic Studies and Planning, JNU.* 
 My areas of interest include **labour economics, climate change, unemployment and inequality.** 
 I strongly believe in supporting one's arguments with data hence I am trying my hands on in coding. Enthusiastic to learn R and and to embed the codes in org mode.
 Hoping to contribute more in the days to come.
