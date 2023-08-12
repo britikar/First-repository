@@ -10,7 +10,7 @@ Hoping to contribute more in the days to come.
 ______
 
 ## Problem faced while writing the code
-I cannot use bold and italics athe same time.
+I cannot use bold and italics at the same time.
 
 Unable to find the *propose changes* mentioned in Hello world.  
 
